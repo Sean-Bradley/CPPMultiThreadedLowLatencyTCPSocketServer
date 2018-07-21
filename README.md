@@ -1,4 +1,4 @@
-# CPPMultiThreadedLowLatencyTCPSocketServer
+# CPP Multi Threaded Low Latency TCP Socket Server
 C++ Multi Threaded Low Latency TCP Socket Server
 
 
